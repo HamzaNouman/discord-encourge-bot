@@ -1,0 +1,15 @@
+{
+  "polls": [
+    {
+      "question": "aldkfj",
+      "answers": [
+        "ahdf",
+        "ladhf"
+      ]
+    }
+  ],
+  "current_index": 0,
+  "poll_hour": 17,
+  "poll_minute": 28,
+  "poll_channel_id": 1531142486628765842
+}
